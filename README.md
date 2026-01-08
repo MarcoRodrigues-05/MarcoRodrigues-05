@@ -1,14 +1,5 @@
 <h2 align="left">Olá! Sejam bem vindos ao meu Github!</h2>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/apiMarcoRodrigues-05=anuraghazra)](https://github.com/anuraghazra/github-readme-stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcoRodrigues-05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
   <img width="12" />
