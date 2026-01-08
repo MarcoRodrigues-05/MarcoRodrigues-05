@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Sejam bem vindos ao meu Github!</h2>
+<h2 align="center">Olá! Sejam bem vindos ao meu Github!</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
