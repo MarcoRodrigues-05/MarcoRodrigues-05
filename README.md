@@ -1,38 +1,51 @@
-<h2 align="center">Olá! Sejam bem vindos ao meu Github!</h2>
+# Olá, eu sou Marco Paulo 👋
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img alt="JavaScript" title="JavaScript"width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="30" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-</div>
+🎓 Estudante de Ciência da Computação  
+💻 Desenvolvedor Full Stack | Dados | Automação  
+📍 Minas Gerais, Brasil
 
-###
+Atuo no desenvolvimento de soluções envolvendo software, dados e automação, 
+transformando problemas reais em aplicações utilizadas no dia a dia.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/marcopaulosoaresrodrigues/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## 🚀 Projetos em destaque
 
-###
+### 🐊 Jacaré Utilidades — E-commerce Full Stack
 
-<br clear="both">
+E-commerce desenvolvido para uma loja real de Sete Lagoas/MG, criando um novo
+canal de vendas para uma empresa que anteriormente atuava apenas fisicamente.
 
-<img src="https://raw.githubusercontent.com/angelicaweiler/angelicaweiler/output/snake.svg" alt="Snake animation" />
+Principais funcionalidades:
 
-###
+- Catálogo e carrinho de compras
+- Pedidos online
+- Entrega ou retirada na loja
+- Pagamento via PIX ou cartão
+- Kits de produtos
+- Painel administrativo
+- Gerenciamento de pedidos
+- Relatório diário de vendas
+
+🌐 Site em produção:
+https://www.jacareutilidades.com.br/
+
+💻 Código:
+https://github.com/Caiman-Dev-Studio/E-commerce_JacareUtilidade
+
+---
+
+### 🚌 UTrip
+
+Aplicação mobile voltada para linhas de transporte universitário.
+
+### 🍎 NutriLife
+
+Projeto acadêmico desenvolvido em parceria com alunos de Nutrição.
+
+## 🛠️ Tecnologias
+
+Java • Spring Boot • JavaScript • TypeScript • React • React Native • Python • SQL • HTML • CSS
+
+## 📫 Contato
+
+LinkedIn:
+https://www.linkedin.com/in/marcopaulosoaresrodrigues/
