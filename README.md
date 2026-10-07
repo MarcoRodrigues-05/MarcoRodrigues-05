@@ -35,7 +35,7 @@ https://github.com/Caiman-Dev-Studio/E-commerce_JacareUtilidade
 
 ### 🚌 UTrip
 
-Aplicação mobile voltada para linhas de transporte universitário.
+Projeto acadêmico de uma aplicação mobile voltada para linhas de transporte universitário.
 
 ### 🍎 NutriLife
 
